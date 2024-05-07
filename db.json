@@ -1,25 +1,25 @@
 {
-  "Planszowki":[
+  "planszowki":[
   {
-    "tytul": "Monopoli",
-    "minLG": "2",
-    "maxLG": "10",
+    "tytul": "monopoly",
+    "minLG": 2,
+    "maxLG": 10,
+    "czas": 5,
+    "trudnosc": "latwa"
+  },
+  {
+    "tytul": "Talizman",
+    "minLG": 2,
+    "maxLG": 10,
+    "czas": 6,
+    "trudnosc": "srednia"
+  },
+  {
+    "tytul": "chińczyk",
+    "minLG": 2,
+    "maxLG": 4,
     "czas": 3,
-    "trudnosc": "latwa"
-  },
-  {
-  "tytul": "Talizman",
-    "minLG": "2",
-    "maxLG": "8",
-    "czas": 4,
     "trudnosc": "trudna"
-  },
-  {
-   "tytul": "Chińczyk",
-    "minLG": "2",
-    "maxLG": "4",
-    "czas": 1,
-    "trudnosc": "latwa"
   }
 ]
 }
