@@ -20,6 +20,13 @@
     "maxLG": 4,
     "czas": 3,
     "trudnosc": "trudna"
+  },
+     {
+    "tytul": "Szachy",
+    "minLG": 2,
+    "maxLG": 2,
+    "czas": 1,
+    "trudnosc": "trudna"
   }
 ]
 }
